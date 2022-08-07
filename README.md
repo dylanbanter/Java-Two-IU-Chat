@@ -1,5 +1,5 @@
 # Java-Two-IU-Chat
-Developed by Dylan Banter & Jesus Martinez with guidance from professor M. Abdullah Canbaz for class INFO-I 211/CSCI-C 201 in Fall 2021.
+Developed by Dylan Banter & Jesus Martinez
 
 A messaging program, featuring a registration &amp; login system, designed specifically for two instances of the program to be running simuletaneously &amp; with at least two separate users logged in.
 
